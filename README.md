@@ -1,0 +1,1 @@
+# Jumia One Global Configurations

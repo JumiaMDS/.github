@@ -1,5 +1,5 @@
 ---
-name: Feature request
+name: Jumia One Feature request
 about: Suggest an idea for this project
 title: ''
 labels: ''
