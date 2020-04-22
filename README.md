@@ -1,1 +1,1 @@
-# Jumia One Global Configurations
+# Jumia One Global Templates
