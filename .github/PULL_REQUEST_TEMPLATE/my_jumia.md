@@ -7,9 +7,9 @@
 ## MyJumia PR checklist
 
 - [ ] Behavior changes are covered by new tests
-  - [ ] functional tests
   - [ ] unit tests
-  - [ ] e2e tests
+  - [ ] API tests
+  - [ ] functional tests
 - [ ] Run locally linting and unit tests
 - [ ] Run locally functional tests
   - [ ] IDP
