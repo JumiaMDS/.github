@@ -6,7 +6,7 @@
 
 ## PR checklist
 
-- [ ] Ticket were added to the Release notes 🗒️
+- [ ] Ticket were added to the *Release Notes* 🗒️
 - [ ] Behavior changes are covered by new tests 🧪
   - [ ] unit tests 
   - [ ] API tests 
